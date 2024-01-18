@@ -1,0 +1,1 @@
+# automation-manual-testing-project
