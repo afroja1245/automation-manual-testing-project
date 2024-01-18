@@ -1,0 +1,17 @@
+#Verify the following URL Registration page work or not.
+
+URL="https://tutorialsninja.com/demo"
+
+Accepted username are:
+1.patricia44@example.net
+
+Password for users:
+1.adAXqKlJ_1
+
+User Stories
+As a new user, I want to be able to easily create a new account and register for the platform.
+
+Acceptance critia:
+1.User can access the registration page from the homepage. 
+2.User can enter their details (name, email, password, phone number etc.) and click the "continue" button.
+3.User is redirected to their account dashboard upon successful registration.
